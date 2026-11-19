@@ -1,0 +1,28 @@
+{
+    margin; 0
+    padding; 0
+
+}
+
+body{
+
+    background-color: black;
+    color: antiquewhite;
+    margin: 0px;
+    margin-bottom: 100px;
+
+}
+
+header {
+    background-color: beige;
+    color: chocolate;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+h1{
+    color: ghostwhite;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
